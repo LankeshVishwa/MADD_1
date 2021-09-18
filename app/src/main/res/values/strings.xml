@@ -28,10 +28,6 @@
     <string name="btnupdate">UPDATE</string>
 
 
-
-
-
-
     <string name="add_faq">Add FAQ</string>
     <string name="enter_question">Enter question</string>
     <string name="enter_answer">Enter answer</string>
@@ -48,7 +44,6 @@
     <string name="invalid_nic">"Enter a valid NIC "</string>
     <string name="invalid_bdate">Select a Date</string>
     <string name="invalid_rdate">Select a Date</string>
-
 
 
     <string name="name">Name</string>
